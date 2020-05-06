@@ -47,3 +47,5 @@ ui_ports:
 ldap_ports:
 - 10389
 
+monit_ports:
+- 2812
